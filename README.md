@@ -13,8 +13,8 @@ EVE Online STL models of ships and other things.
 
 ## This is cool, how can I help?
 * There are lots of models that need to be exported from all the ships to stations to deployables and I'm just one guy.
-* I'm sure there are some models that need to be cleaned up somemore before they'll print correctly.
-* Pull request welcomed! :)
+* I'm sure there are some models that need to be cleaned up some more before they'll print correctly.
+* Pull request and advice welcomed! :)
 
 ## How I Did It So You Can Too
 #### TriExporter
