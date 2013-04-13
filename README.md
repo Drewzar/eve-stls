@@ -3,12 +3,18 @@ EVE Online STL models of ships and other things.
 ## Notes
 * These are raw exports from the .stuff using Triexporter with no textures and only using the high detail `.gr2`'s
 * Some of the larger models came out awkward; I'm not sure why this is.
+* I don't have access to a 3D printer so I have no idea how any of these will turn out.
 * I don't know 3D modeling at all so pull request are welcomed if you wanted to clean/fix them up.
 
 ## Tools Used
 [TriExporter](http://dl.eve-files.com/media/corp/SeriousM/TriExporter_2009.zip) (Windows only, maybe works in wine)
 
 [Blender](http://www.blender.org/download/get-blender/) (Windows/Linux/OSX/FreeBSD)
+
+## This is cool, how can I help?
+* There are lots of models that need to be exported from all the ships to stations to deployables and I'm just one guy.
+* I'm sure there are some models that need to be cleaned up somemore before they'll print correctly.
+* Pull request welcomed! :)
 
 ## How I Did It So You Can Too
 #### TriExporter
