@@ -32,8 +32,6 @@ Now you should be able to see your ship but it's facing straight up. If that's h
 
 In the list to the left of the screen "Rotate" should near the top double click it. Still on the left side, now towards the bottom you should see the "Rotate" properties. Check the `X` Axis box and set the angle to 90 degrees.
 
-Next, let's move the ship up some. To do that, double click "Translate" from the top part of the list on the left. Change the `Z` Vector to 1 or 2 depending on the size of the ship.
-
 Time to make it big! In that top left list, you should see "Scale" - click this once and type in `10` on your keyboard.
 
 All that's left is to export it as a `.stl` and you can do that by going to `File > Export > Stl (.stl)`, pick a place to save it. 
