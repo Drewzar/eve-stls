@@ -2,7 +2,7 @@ EVE Online STL models of ships and other things.
 
 ## Notes
 * These are raw exports from the .stuff using Triexporter with no textures and only using the high detail `.gr2`'s
-* Some of the larger capital ships came out awkward; I'm not sure why this is.
+* Some of the larger models came out awkward; I'm not sure why this is.
 * I don't know 3D modeling at all so pull request are welcomed if you wanted to clean/fix them up.
 
 ## Tools Used
